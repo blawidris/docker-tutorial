@@ -6,17 +6,15 @@ Docker uses a technology called containerization to achieve this level of portab
 
 The benefits of using Docker include:
 
-Consistency: Docker ensures that the same environment is used across all stages of the application lifecycle, from development to production.
+- Consistency: Docker ensures that the same environment is used across all stages of the application lifecycle, from development to production.
 
-Portability: Docker containers can be easily moved between different environments and platforms, without any changes to the application code.
+- Portability: Docker containers can be easily moved between different environments and platforms, without any changes to the application code.
 
-Efficiency: Docker allows multiple containers to run on the same host, maximizing resource utilization and reducing costs.
+- Efficiency: Docker allows multiple containers to run on the same host, maximizing resource utilization and reducing costs.
 
-Scalability: Docker makes it easy to scale an application horizontally by adding more containers.
+- Scalability: Docker makes it easy to scale an application horizontally by adding more containers.
 
-Security: Docker provides a secure runtime environment for applications, with isolated containers and fine-grained control over access and permissions.
-
-### Why do we use **Docker**
+- Security: Docker provides a secure runtime environment for applications, with isolated containers and fine-grained control over access and permissions.
 
 ### Is it necessary to have Docker installed on the hosting server in order to deploy an application that was developed and packaged using Docker on a local machine?
 
