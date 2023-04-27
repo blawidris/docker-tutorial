@@ -28,13 +28,9 @@ Finally, you will need to ensure that your application is deployed and configure
 
 ## Installation on Ubuntu
 
-**Step 1:** update your pc packages index
-
-```sudo apt-get update```
-
-**Step 2:** Install Docker Engine, containerd, and Docker Compose.
-
-``` sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin ```
+**Step 1:** follow the following link
+- https://docs.docker.com/desktop/install/ubuntu/
+- https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository
 
 **Step 3:** Verify that the Docker Engine installation is successful
 
